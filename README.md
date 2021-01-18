@@ -7,7 +7,7 @@ Lengthy title aside, this is a basic program which will help make your house/apa
 Instead of going to Google Maps to check the proximity to nearby utilities or your office, use this to chart all destinations in one go. The destinations list will be persisted and you only need to change the origin.
 
 ## Demo / Usage
-![video](./home-priority-locations-distance.gif)
+![demo](./home-priority-locations-distance.webp =100x)
 <br>
 Since this is a minor project I left the API key unrestricted. Please don't misuse or go above the usage limit. Thank you!
 
